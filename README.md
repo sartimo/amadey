@@ -1,4 +1,7 @@
 # amadey
+
+![image](https://github.com/sartimo/amadey/assets/71646577/978c3c6d-aa42-4b9b-a664-8d6dbff5c5ac)
+
 decompiled source-code of recent Amadey campaigns. I have used a recent sample of Amadey that I have seen on malwarebazaar. The referring SHA256 hash is: 76ea573ac14a96a287299d60921512ee16c9308910edde6df2f26159d420fd33. You can find a more detailed analysis from splunk: https://www.splunk.com/en_us/blog/security/amadey-threat-analysis-and-detections.html
 
 # IOC
